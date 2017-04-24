@@ -15,5 +15,6 @@ In the challenges to follow, you will be asked to complete a series of programmi
 For this challenge and the rest to follow, you'll need a Bluemix account. [Sign up to get one here](https://console.ng.bluemix.net/registration/). Once you've signed up for an account, you'll be able to...
 
 TODO
+
 * Give pointers to sample code
 * Include some instructions/screenshots to show how to deploy
