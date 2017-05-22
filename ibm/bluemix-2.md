@@ -31,7 +31,7 @@ Configure your node with this ID in the Node-RED editor and click the "Deploy" b
 
 If you change the temperature value in the device simulator browser window, you'll see different output start getting logged in your console.  If you dig into what's happening in your flow, you have a "switch" node that prints different output messages based on the current temperature value.
 
-To fully complete this challenge and demonstrate a bit of Node-RED mastery, configure a third template to print a message if and only if the temperature value is equal to `42` (or your own favorite number).  It should ulitimately look something like this.
+To fully complete this challenge and demonstrate a bit of Node-RED mastery, configure a third template to print a message if and only if the temperature value is equal to `42` (or your own favorite number).  It should ultimately look something like this:
 
 <img src="https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/Node-RED__twilioquest-test.mybluemix.net_2017-0.original.png" style="width:100%"/>
 
