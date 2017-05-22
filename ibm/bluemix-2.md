@@ -1,5 +1,3 @@
-## Mayday! Node-RED!
-
 In the previous mission, you deployed a sample [Node-RED](https://nodered.org/) application to Bluemix. Now, we're going to learn the basics of customizing it and deploying updates to the application.
 
 In this mission, you'll be asked to do two things - configure a simulated IoT sensor into the application flow, and practice dragging, dropping, and configuring nodes in the Node-RED development environment.

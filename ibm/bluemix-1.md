@@ -1,5 +1,3 @@
-## Hello, Bluemix!
-
 IBM Bluemix is a PaaS based on CloudFoundry that you can use to quickly deploy and scale web applications. But what makes Bluemix really awesome is the wide array of built-in services and boilerplate apps you can use to quickly create sophisticated applications for many different use cases.
 
 In the missions to follow, we'll set up and customize an IoT application built on [Node-RED](https://nodered.org/). So first things first - let's get you set up with a Bluemix account and a sample application deployed on it.  Once you've got our boilerplate app deployed on your own account, wave an NPC over to receive your XP and limited edition IBM loot!
