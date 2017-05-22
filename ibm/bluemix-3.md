@@ -12,7 +12,7 @@ To complete this challenge, you'll need to add two new nodes to the flow.
 <img src="https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/new_nodes.original.png"/>
 
 * One node will send an SMS to a phone number you configure
-* One node will limit the number of SMS you send to one message per second
+* One node will limit the number of SMS you send to one message per minute
 
 #### Using the "delay" node
 
