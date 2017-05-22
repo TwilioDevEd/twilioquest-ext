@@ -25,11 +25,11 @@ With the Watson IoT platform you can connect real devices to flows like this in 
 
 Now, we need to configure your Node-RED app with the simulated IoT device's ID - see the randomly generated ID at the top?
 
-<img src="https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/bluemix3.original.png" style="width:100%"/>
+<img src="https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/bluemix4.original.png" style="width:100%"/>
 
 Configure your node with this ID in the Node-RED editor and click the "Deploy" button. Your flow will be redeployed, and you should start seeing output from your simulated device in the "debug" tab of your UI.
 
-<img src="https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/bluemix3.original.png" style="width:100%"/>
+<img src="https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/debug-tab.original.png" style="width:100%"/>
 
 If you change the temperature value in the device simulator browser window, you'll see different output start getting logged in your console.  If you dig into what's happening in your flow, you have a "swtich" node that prints different output messages based on the current temperature value.
 
