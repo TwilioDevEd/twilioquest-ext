@@ -19,7 +19,7 @@ Once you've signed up and accessed your dashboard, you can visit the [Catalog](h
 
 On the configuration screen that follows, name your application and hit the "Create" button.  In a few moments, you'll be able to visit your application at `https://<app name>.mybluemix.net`.
 
-Visit your application, and you should be greeted with a wizard-style interface to configure your [Node-RED](https://nodered.org/) application.  Configure a username and password combination, and after you're done, you should see the pre-configured flow editor for this application.
+Visit your application, and you should be greeted with a wizard-style interface to configure your [Node-RED](https://nodered.org/) application.  Configure a username and password combination, and after you're done go to the pre-configured flow editor for this application.
 
 <img src="https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/bluemix2.original.png" style="width:100%"/>
 
