@@ -1,4 +1,4 @@
-Let's depart from the sample IoT application and explore how we might respond to incoming HTTP requests in Node-RED - this will give us a platform to experiment with more avdanced Bluemix and Watson features within custom Node-RED functions. But for starters, we'll get a route set up and just say "Hello, World!"
+Let's depart from the sample IoT application and explore how we might respond to incoming HTTP requests in Node-RED - this will give us a platform to experiment with more advanced Bluemix and Watson features within custom Node-RED functions. But for starters, we'll get a route set up and just say "Hello, World!"
 
 ### Victory conditions
 
