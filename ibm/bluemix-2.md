@@ -13,7 +13,7 @@ When you deployed the Node-RED boilerplate application, you already had two flow
 
 <img src="https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/bluemix5.original.png" style="width:100%"/>
 
-Node-RED applications are composed from input and output nodes from a palette on the left-hand side of the UI. One of the nodes included by default is a simulated device sensor - it's labeled "IBM IoT App In" in the flow editor.  Double click on this node to bring up an editor UI.
+Node-RED applications are composed from input and output nodes from a palette on the left-hand side of the UI. One of the nodes included by default is a simulated device sensor - it's labeled "IBM IoT App In" in the flow editor.  Double-click on this node to bring up an editor UI.
 
 One of the fields you can edit is the Device ID:
 
