@@ -1,8 +1,8 @@
-### Path to victory
+## Path to Victory
 
 For this challenge and the rest to follow, you'll need a Bluemix account. [Sign up to get one here](https://console.ng.bluemix.net/registration/). Once you've signed up for an account, you'll be prompted to set up a "space" - this is a container for related services and applications. For example, you might have "dev", "stage", and "prod" spaces for different versions of your application.
 
-### Deploying the Node RED boilerplate app
+## Deploying the Node RED boilerplate app
 
 Once you've signed up and accessed your dashboard, you can visit the [Catalog](https://console.ng.bluemix.net/catalog/?taxonomyNavigation=cf-apps&category=blueprints) section of the console to view different types of services and applications you can deploy. Sorted under "Boilerplates", you'll find the "Internet of Things Platform Starter".
 
