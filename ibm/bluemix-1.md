@@ -1,12 +1,3 @@
-IBM Bluemix is a PaaS based on CloudFoundry that you can use to quickly deploy and scale web applications. But what makes Bluemix really awesome is the wide array of built-in services and boilerplate apps you can use to quickly create sophisticated applications for many different use cases.
-
-In the missions to follow, we'll set up and customize an IoT application built on [Node-RED](https://nodered.org/). So first things first - let's get you set up with a Bluemix account and a sample application deployed on it.  Once you've got our boilerplate app deployed on your own account, wave an NPC over to receive your XP and limited edition IBM loot!
-
-### Victory conditions
-
-* Sign up for a Bluemix account
-* Successfully deploy the IoT boilerplate app to Bluemix
-
 ### Path to victory
 
 For this challenge and the rest to follow, you'll need a Bluemix account. [Sign up to get one here](https://console.ng.bluemix.net/registration/). Once you've signed up for an account, you'll be prompted to set up a "space" - this is a container for related services and applications. For example, you might have "dev", "stage", and "prod" spaces for different versions of your application.
