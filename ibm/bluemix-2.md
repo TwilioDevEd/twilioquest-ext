@@ -1,13 +1,4 @@
-In the previous mission, you deployed a sample [Node-RED](https://nodered.org/) application to Bluemix. Now, we're going to learn the basics of customizing it and deploying updates to the application.
-
-In this mission, you'll be asked to do two things - configure a simulated IoT sensor into the application flow, and practice dragging, dropping, and configuring nodes in the Node-RED development environment.
-
-### Victory conditions
-
-* Configure a [simulated IoT sensor](http://ibm.biz/iotsensor) to use in development and log output to the debug tab in Node-RED
-* Drag and configure a new node into the flow from the palette in Node-RED
-
-### The path to victory
+## Path to Victory
 
 When you deployed the Node-RED boilerplate application, you already had two flows configured. The bottom one was for a fictional "temperature sensor" from an IoT device. You can view the flow editor by visiting `https://<bluemix-app-name>.mybluemix.net/red`.
 
