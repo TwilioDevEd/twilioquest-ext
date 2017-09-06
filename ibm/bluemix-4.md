@@ -1,12 +1,4 @@
-Let's depart from the sample IoT application and explore how we might respond to incoming HTTP requests in Node-RED - this will give us a platform to experiment with more advanced Bluemix and Watson features within custom Node-RED functions. But for starters, we'll get a route set up and just say "Hello, World!"
-
-### Victory conditions
-
-* Create a flow which handles incoming HTTP requests on `/hello` or a route you define
-* Respond to an incoming HTTP request using a custom function
-* Show an NPC your working route to receive points
-
-### The path to victory
+## Path to Victory
 
 To successfully complete this challenge you will need to use three nodes from the palette.
 
