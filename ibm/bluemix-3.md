@@ -1,11 +1,4 @@
-Now that we have a basic Node-RED application set up on Bluemix, let's mix in a little Twilio. There's already a node in the palette in Node-RED that makes it easy to send SMS messages from your Node-RED application. Let's plug it into our sample IoT sensor application to send ourselves a text message when things get too hot on our simulated device.
-
-### Victory conditions
-* Drag in and configure the Twilio node in our Node-RED application with your Twilio account credentials
-* Configure the node to send an SMS message when the upper limit of the temperature is reached for our virtual device
-* Demo your SMS integration to an NPC to receive your reward!
-
-### The path to victory
+## Path to Victory
 
 To complete this challenge, you'll need to add two new nodes to the flow.
 
@@ -14,7 +7,7 @@ To complete this challenge, you'll need to add two new nodes to the flow.
 * One node will send an SMS to a phone number you configure
 * One node will limit the number of SMS you send to one message per minute
 
-#### Using the "delay" node
+### Using the "delay" node
 
 In the palette under the "function" heading, you'll find the "delay" node. This allows you to do a variety of things, but in this case you'll need to use it to prevent sending SMS messages out more than once a second. Your configuration will look something like this.
 
@@ -22,7 +15,7 @@ In the palette under the "function" heading, you'll find the "delay" node. This 
 
 I chose to drop messages we don't handle, rather than have them queue up.
 
-#### Using the Twilio node
+### Using the Twilio node
 
 To send an SMS, you'll need to drag in and configure a "Twilio" node from the palette. There are two primary pieces of configuration you'll need.  The first is for the number you'd like to send the message to, which is the first screen you'll see if you double click on the Twilio node.
 
@@ -32,6 +25,6 @@ From within this configuration window, you'll need to set your Twilio account in
 
 <img src="https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/twilio_account.original.png"/>
 
-#### Wiring them both together
+### Wiring them both together
 
 Using the Node-RED editor, you should be able to pass output from the template through the delay node, to the Twilio node, to ultimately send the SMS message.  Once you've managed to send an SMS when the temperature gets too high, wave over an NPC to collect your reward!
